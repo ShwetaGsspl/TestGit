@@ -1,1 +1,1 @@
-New File Test 3.
+New File Test of Merge Conflicts.
